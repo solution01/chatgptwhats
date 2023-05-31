@@ -1,6 +1,6 @@
 const path = require("path");
 
-exports.PREFIX = ".";
+exports.PREFIX = "!";
 exports.BOT_EMOJI = "🤖";
 exports.BOT_NAME = "Sky Bot";
 
